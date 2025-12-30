@@ -25,7 +25,7 @@ A Python-based Keylogger application that captures keystrokes and stores them in
 
 ## 📸 Project Output
 
-![Keylogger Output](screenshots/gui_output.png)
+![Keylogger Output](screenshots/1.png)
 
 ---
 👥 End Users
